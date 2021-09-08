@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Andrew Wang",
+    "position": "Captain",
+    "img": "andrew"
+  },
+  {
+    "name": "Anirudh Bansal",
+    "position": "Captain",
+    "img": "anirudh"
+  },
+  {
+    "name": "Sameer Gabbita",
+    "position": "Teaching Coordinator",
+    "img": "sameer"
+  },
+  {
+    "name": "Zarif Azher",
+    "position": "Treasurer",
+    "img": "zarif"
+  },
+  {
+    "name": "Sritan Motati",
+    "position": "Webmaster",
+    "img": "sritan"
+  }
+]
