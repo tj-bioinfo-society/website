@@ -50,6 +50,7 @@ const Team = () => {
             })}
           </div>
         </div>
+        <p className='mt-8 text-base'>If you have any questions, please send us an email at <a className='text-green-500 font-semibold' href="mailto:tjbioinformatics@gmail.com">tjbioinformatics@gmail.com</a>!</p>
       </div>
     </div>
   )

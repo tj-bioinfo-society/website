@@ -30,11 +30,11 @@ const Header = () => {
     },
     {
       text: "Resources",
-      path: "/resources",
+      path: "/resources/",
     },
     {
       text: "Lectures",
-      path: "/lectures",
+      path: "/lectures/",
     },
   ]
   return (
