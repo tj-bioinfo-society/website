@@ -1,10 +1,22 @@
 {
   "2021": [
     {
-      "title": "Lectures coming soon!",
+      "title": "Introduction",
       "author": "TJ Bioinformatics Society",
       "date": "September 15, 2021",
-      "url": ""
+      "url": "https://docs.google.com/presentation/d/1yRRWiTlJAYGDtIZB4i7jO32SpdGtQ0x8Bp0sKmxXXNc/edit"
+    },
+    {
+      "title": "Data Science Workshop (NumPy & Pandas)",
+      "author": "Sameer Gabbita & Zarif Azher",
+      "date": "September 22, 2021",
+      "url": "https://docs.google.com/presentation/d/1iHt7yYMuIppQ8FDPVCOCyDvhbfsqJvvA4dzgQvTF0hE/edit"
+    },
+    {
+      "title": "Data Science Workshop (Matplotlib)",
+      "author": "Sritan Motati",
+      "date": "September 29, 2021",
+      "url": "https://docs.google.com/presentation/d/1nKseAsEiV0y4KmWsgE_vJaDS6vc9WUgsri7G1AsJJvk/edit?usp=sharing"
     }
   ]
 }
