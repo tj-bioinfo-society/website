@@ -1,27 +1,27 @@
 [
   {
     "name": "Andrew Wang",
-    "position": "Captain",
+    "position": "Lead Chair",
     "img": "andrew"
   },
   {
     "name": "Anirudh Bansal",
-    "position": "Captain",
+    "position": "Lead Chair",
     "img": "anirudh"
   },
   {
     "name": "Sameer Gabbita",
-    "position": "Teaching Coordinator",
+    "position": "Chair",
     "img": "sameer"
   },
   {
     "name": "Zarif Azher",
-    "position": "Treasurer",
+    "position": "Chair",
     "img": "zarif"
   },
   {
     "name": "Sritan Motati",
-    "position": "Webmaster",
+    "position": "Chair",
     "img": "sritan"
   }
 ]
