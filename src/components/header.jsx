@@ -29,6 +29,10 @@ const Header = () => {
       path: "/",
     },
     {
+      text: "BioCode",
+      path: "/biocode/",
+    },
+    {
       text: "Resources",
       path: "/resources/",
     },

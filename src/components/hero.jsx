@@ -1,7 +1,7 @@
 import React from 'react'
 import BackgroundImage from 'gatsby-background-image'
 
-const Hero = ({ image, title, subtitle }) => {
+const Hero = ({ image, title, subtitle, centered }) => {
   return subtitle ? (
     <BackgroundImage 
       className="bg-no-repeat bg-center bg-cover overflow-hidden px-8 text-white h-screen"
@@ -9,9 +9,9 @@ const Hero = ({ image, title, subtitle }) => {
         "linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55))",
         image.childImageSharp.fluid,
     ]}>
-      <div className="non-index-hero mt-40 px-4 sm:mt-32 sm:px-6 md:mt-36 lg:mt-36 xl:mt-44">
-        <h1 className="text-4xl tracking-tight max-w-3xl leading-10 font-extrabold text-gray-100 sm:text-5xl sm:leading-none md:text-6xl lg:text-7xl mb-8">{title}</h1>
-        <h4 className="mt-3 text-base font-bold max-w-md text-green-100 sm:text-lg md:mt-5 md:text-xl md:max-w-xl">{subtitle}</h4>
+      <div className={"non-index-hero mt-40 px-4 sm:mt-32 sm:px-6 md:mt-36 lg:mt-36 xl:mt-44" + (centered ? " text-center" : "")}>
+        <h1 className={"text-4xl tracking-tight max-w-3xl leading-10 font-extrabold text-gray-100 sm:text-5xl sm:leading-none md:text-6xl lg:text-7xl mb-8" + (centered ? " mx-auto" : "")}>{title}</h1>
+        <h4 className={"mt-3 text-base font-bold max-w-md text-green-100 sm:text-lg md:mt-5 md:text-xl md:max-w-xl" + (centered ? " mx-auto" : "")}>{subtitle}</h4>
       </div>
     </BackgroundImage>
   ) : (
