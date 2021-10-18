@@ -2,8 +2,9 @@ import { graphql, useStaticQuery } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import React from 'react'
 import teamData from '../../data/team.json'
+import boardData from '../../data/board.json'
 
-const Team = () => {
+const Team = ({biocode}) => {
   const { teamImages } = useStaticQuery(graphql`
     query {
       teamImages: allFile(filter: { relativeDirectory: { eq: "team" } }) {
@@ -28,10 +29,10 @@ const Team = () => {
       <div className='mx-auto max-w-screen-xl py-20 px-4 sm:px-8 md:px-12 text-center'>
         <div className="grid grid-cols-1 gap-8">
           <div className='mb-2'>
-            <h1 className='text-3xl sm:text-4xl font-extrabold tracking-tight'>Officers</h1>
+            <h1 className='text-3xl sm:text-4xl font-extrabold tracking-tight'>{biocode ? "Board" : "Officers"}</h1>
           </div>
           <div className='justify-center grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-5 gap-6'>
-            {teamData.map(member => {
+            {(biocode ? boardData : teamData).map(member => {
               return (
                 <div className='justify-center items-center flex flex-col mx-auto'>
                   <GatsbyImage

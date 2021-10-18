@@ -46,6 +46,7 @@ const SEO = ({ title, description }) => {
       {seo.description && (
         <meta property="og:description" content={seo.description} />
       )}
+      <meta property="og:image" content="./src/images/logo.png"/>
     </Helmet>
   )
 }

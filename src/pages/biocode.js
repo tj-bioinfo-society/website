@@ -3,6 +3,7 @@ import * as React from "react"
 import Hero from "../components/hero"
 import Layout from "../components/layout"
 import SEO from "../components/SEO"
+import Team from "../components/index/team"
 
 const BiocodePage = () => {
   const { heroImage } = useStaticQuery(graphql`
@@ -76,6 +77,7 @@ const BiocodePage = () => {
           </p>
         </div>
       </div>
+      <Team biocode={true} />
     </Layout>
   )
 }

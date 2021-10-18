@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import AboutClub from '../components/index/about'
 import Team from '../components/index/team'
 import SEO from "../components/SEO"
+import teamData from '../data/team.json'
 
 const IndexPage = () => {
   const { heroImage } = useStaticQuery(graphql`
@@ -23,7 +24,7 @@ const IndexPage = () => {
       <SEO />
       <Hero image={heroImage} title={"TJ Bioinformatics Society"} subtitle={"Exploring the revolutionary intersection of biology, computer science, and mathematics."} />
       <AboutClub />
-      <Team />
+      <Team biocode={false} />
     </Layout>
   )
 }
