@@ -20,7 +20,7 @@ const BiocodePage = () => {
   return (
     <Layout>
       <SEO title="BioCode" description="The BioCode competition is a prorgramming competition held by TJ Bioinformatics Society that challenges students to solve biology-related problems efficiently using code." />
-      <Hero image={heroImage} title={"TJHSST BioCode"} subtitle={"A bioinformatics competition for high school students we host where students must solve biology-related problems efficiently using code."} centered={true} />
+      <Hero image={heroImage} title={"TJHSST BioCode"} subtitle={"A bioinformatics competition for high school and middle school students we host where students must solve biology-related problems efficiently using code."} centered={true} />
       <div className='bg-gray-100'>
         <div className='max-w-screen-lg mx-auto py-10 px-4 sm:px-6'>
           <div className='grid grid-cols-1 sm:grid-cols-2 gap-5'>
