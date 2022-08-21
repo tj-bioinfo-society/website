@@ -1,27 +1,27 @@
 [
   {
-    "name": "Andrew Wang",
-    "position": "Captain",
-    "img": "andrew"
-  },
-  {
-    "name": "Anirudh Bansal",
-    "position": "Captain",
-    "img": "anirudh"
-  },
-  {
     "name": "Sameer Gabbita",
-    "position": "Teaching Coordinator",
+    "position": "Captain",
     "img": "sameer"
   },
   {
     "name": "Zarif Azher",
-    "position": "Treasurer",
+    "position": "Captain",
     "img": "zarif"
   },
   {
     "name": "Sritan Motati",
-    "position": "Webmaster",
+    "position": "Teaching Coordinator",
     "img": "sritan"
+  },
+  {
+    "name": "Sanchali Banerjee",
+    "position": "Treasurer",
+    "img": "sanchali"
+  },
+  {
+    "name": "Evan Huang",
+    "position": "Webmaster",
+    "img": "evan"
   }
 ]

@@ -1,27 +1,27 @@
 [
   {
-    "name": "Andrew Wang",
-    "position": "Lead Organizer/Chair",
-    "img": "andrew"
-  },
-  {
-    "name": "Anirudh Bansal",
-    "position": "Lead Organizer/Chair",
-    "img": "anirudh"
-  },
-  {
     "name": "Sameer Gabbita",
-    "position": "Chair",
+    "position": "Lead Chair",
     "img": "sameer"
   },
   {
     "name": "Zarif Azher",
-    "position": "Chair",
+    "position": "Lead Chair",
     "img": "zarif"
   },
   {
     "name": "Sritan Motati",
     "position": "Chair",
     "img": "sritan"
+  },
+  {
+    "name": "Sanchali Banerjee",
+    "position": "Chair",
+    "img": "sanchali"
+  },
+  {
+    "name": "Evan Huang",
+    "position": "Chair",
+    "img": "evan"
   }
 ]
