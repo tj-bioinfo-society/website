@@ -1,5 +1,5 @@
 {
-  "2021": [
+  "2021-22": [
     {
       "title": "Introduction",
       "author": "TJ Bioinformatics Society",
@@ -83,6 +83,14 @@
       "author": "Jay Lalwani and Shashwat Rao ",
       "date": "March 30, 2022",
       "url": "https://docs.google.com/presentation/d/1USNYW2qCSdbFrXZyb09XVmtX_jWsBp5E/edit?usp=sharing&ouid=109510986672617630628&rtpof=true&sd=true"
+    }
+  ],
+  "2022-23": [
+    {
+      "title": "Introduction",
+      "author": "TJ Bioinformatics Society",
+      "date": "September 14, 2022",
+      "url": ""
     }
   ]
 }
