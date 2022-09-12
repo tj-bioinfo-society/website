@@ -14,7 +14,7 @@ const AboutClub = () => {
             drugs for proteins, bioinformatics is becoming more important in the medical and biological 
             research industry and could be used to save lives. Our club hopes to introduce you to 
             bioinformatics through <strong>informative lectures, hand-on lectures, and fun games</strong>. 
-            No previous knowledge is required, so join us during <strong>Wednesday B block in Room 54</strong>!
+            No previous knowledge is required, so join us during <strong>Wednesday B block in Room 251</strong>!
           </p>
         </div>
       </div>
