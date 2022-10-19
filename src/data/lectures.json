@@ -94,9 +94,21 @@
     },
     {
       "title": "Intro to Python and Rosalind",
-      "author": "Sritan Motati",
+      "author": "TJ Bioinformatics Society",
       "date": "September 21, 2022",
       "url": "https://docs.google.com/presentation/d/1G3clI9c-u3_g-vHPPeMWzCdk_LRI4mGd0wt6irJbZPE/edit?usp=sharing"
+    },
+    {
+      "title": "Data + Analysis Basics",
+      "author": "TJ Bioinformatics Society",
+      "date": "September 28, 2022",
+      "url": "https://docs.google.com/presentation/d/1ud-uZs8dCwC_k2yGD6mgxo8Gv3TEqBwUEey07h7BVnw/edit?usp=sharing"
+    },
+    {
+      "title": "Intro to Machine Learning Workshop",
+      "author": "TJ Bioinformatics Society",
+      "date": "October 19, 2022",
+      "url": "https://docs.google.com/presentation/d/1fCOzsv7U2OP2R4BbgHwverDOpS0PbVchjcVqjuq_JAk/edit?usp=sharing"
     }
   ]
 }
