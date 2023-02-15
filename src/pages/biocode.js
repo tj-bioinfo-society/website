@@ -54,10 +54,10 @@ const BiocodePage = () => {
           The competition will consist of an opening ceremony, programming time, workshops from 
           knowledgeable TJ students, guest lectures from professors in the field, and an awards ceremony.
           </p>
-          <p className="text-gray-500 text-lg mb-1">
-          Where: Thomas Jefferson High School for Science and Technology, 6560 Braddock Road, Alexandria, VA 22312  
+          <p className="text-gray-500 text-lg mb-1 font-bold">
+          Where: TJHSST, 6560 Braddock Road, Alexandria, VA 22312  
           </p>
-          <p className="text-gray-500 text-lg">
+          <p className="text-gray-500 text-lg font-bold">
           When: March 11, 10 AM - 7 PM EST
           </p>
         </div>
