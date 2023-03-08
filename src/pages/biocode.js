@@ -39,9 +39,9 @@ const BiocodePage = () => {
         </div>
       </div>
       <div className='mx-auto max-w-screen-lg py-20 pt-16 px-4 sm:px-8 md:px-12'>
-        {/* <div className="mb-12 text-center">
-          <a href="https://docs.google.com/document/d/1AA084FChANFJe_CPFmHl207dfgHzoUS-pI0ldBFrFxU/edit?usp=sharing" target="_blank" className="bg-green-500 hover:bg-green-400 focus:outline-none focus:bg-green-400 px-6 py-4 border border-transparent text-lg font-medium rounded-md text-white transition duration-150 ease-in-out">Welcome Packet</a>
-        </div> */}
+        <div className="mb-12 text-center">
+          <a href="https://docs.google.com/document/d/13GJ1G2ECgkMzfLev30uvDCTuXJ5hSQlNoCvjUgDlCgQ/edit?usp=sharing" target="_blank" className="bg-green-500 hover:bg-green-400 focus:outline-none focus:bg-green-400 px-6 py-4 border border-transparent text-lg font-medium rounded-md text-white transition duration-150 ease-in-out">Information Packet</a>
+        </div>
         <div className='mb-8'>
           <p className="text-gray-500 text-lg mb-3">
           TJHSST BioCode is an annual coding competition hosted by the Thomas Jefferson High School 
