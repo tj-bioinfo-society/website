@@ -4,6 +4,7 @@ import Hero from "../components/hero"
 import Layout from "../components/layout"
 import SEO from "../components/SEO"
 import Team from "../components/index/team"
+import { StaticImage } from "gatsby-plugin-image"
 
 const BiocodePage = () => {
   const { heroImage } = useStaticQuery(graphql`
@@ -87,11 +88,12 @@ const BiocodePage = () => {
         </div>
         <div>
           <h1 className='font-extrabold text-4xl mb-4'>Sponsors</h1>
-          <p className="text-gray-500 text-lg">
+          <p className="text-gray-500 text-lg mb-8">
             Our platinum sponsor is <a class="underline text-green-600" href='https://www.redteamcollegeplanning.com' target="_blank">Red Team College Planning</a>.
             Our gold sponsor is the <a class="underline text-green-600" href='https://www.vishnumurthyfoundation.org' target="_blank">Vishnu Murthy Foundation</a>.
             Our bronze sponsor is <a class="underline text-green-600" href='https://aopsacademy.org/' target="_blank">Art of Problem Solving (AoPS)</a>.
           </p>
+          <StaticImage className="md:my-auto h-full mx-auto" src="../images/rtcp.png" alt="Red Team College Planning" placeholder="blurred" />
         </div>
       </div>
       <Team biocode={true} />
