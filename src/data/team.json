@@ -1,27 +1,37 @@
 [
   {
-    "name": "Sameer Gabbita",
-    "position": "Captain",
-    "img": "sameer"
-  },
-  {
     "name": "Zarif Azher",
     "position": "Captain",
     "img": "zarif"
   },
   {
     "name": "Sritan Motati",
-    "position": "Teaching Coordinator",
+    "position": "Captain",
     "img": "sritan"
   },
   {
     "name": "Sanchali Banerjee",
-    "position": "Treasurer",
+    "position": "Teaching Coordinator",
     "img": "sanchali"
   },
   {
-    "name": "Evan Huang",
+    "name": "Jasmine Ma",
+    "position": "Treasurer",
+    "img": "jasmine"
+  },
+  {
+    "name": "Medha Pappula",
+    "position": "Director  of Biocode",
+    "img": "placeholder_profile"
+  },
+  {
+    "name": "Akash Wudali",
+    "position": "Director of Biocode",
+    "img": "akash"
+  },
+  {
+    "name": "Avnith Vijayram",
     "position": "Webmaster",
-    "img": "evan"
+    "img": "avnith"
   }
 ]

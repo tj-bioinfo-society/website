@@ -31,12 +31,12 @@ const Team = ({biocode}) => {
           <div className='mb-2'>
             <h1 className='text-3xl sm:text-4xl font-extrabold tracking-tight'>{biocode ? "Board" : "Officers"}</h1>
           </div>
-          <div className='justify-center grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-5 gap-6'>
+          <div className='justify-center grid grid-cols-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6'>
             {(biocode ? boardData : teamData).map(member => {
               return (
                 <div className='justify-center items-center flex flex-col mx-auto'>
                   <GatsbyImage
-                      className="rounded-full shadow-md w-48 h-48 px-auto"
+                      className="rounded-full shadow-md w-70 h-70 px-auto"
                       image={getImage(
                         teamImages.edges.find(
                           x => x.node.name === member.img

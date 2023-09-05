@@ -1,17 +1,12 @@
 [
   {
-    "name": "Sameer Gabbita",
-    "position": "Lead Chair",
-    "img": "sameer"
-  },
-  {
     "name": "Zarif Azher",
     "position": "Lead Chair",
     "img": "zarif"
   },
   {
     "name": "Sritan Motati",
-    "position": "Chair",
+    "position": "Lead Chair",
     "img": "sritan"
   },
   {
@@ -20,8 +15,23 @@
     "img": "sanchali"
   },
   {
-    "name": "Evan Huang",
+    "name": "Jasmine Ma",
     "position": "Chair",
-    "img": "evan"
+    "img": "jasmine"
+  },
+  {
+    "name": "Medha Pappula",
+    "position": "Director  of Biocode",
+    "img": "placeholder_profile"
+  },
+  {
+    "name": "Akash Wudali",
+    "position": "Director of Biocode",
+    "img": "akash"
+  },
+  {
+    "name": "Avnith Vijayram",
+    "position": "Chair",
+    "img": "avnith"
   }
 ]

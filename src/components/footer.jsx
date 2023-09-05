@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF } from 'react-icons/fa'
+import { FaFacebookF, FaInstagram } from 'react-icons/fa'
 import { MdEmail } from 'react-icons/md'
 
 const Footer = () => {
@@ -12,6 +12,10 @@ const Footer = () => {
       link: "mailto:tjbioinformatics@gmail.com",
       icon: MdEmail,
     },
+    {
+      link: "https://www.instagram.com/tjbioinformatics/",
+      icon: FaInstagram,
+    }
   ]
   return (
     <div className='bg-gray-100'>

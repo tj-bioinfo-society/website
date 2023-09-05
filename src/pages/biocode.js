@@ -22,7 +22,7 @@ const BiocodePage = () => {
     <Layout>
       <SEO title="BioCode" description="The BioCode competition is a prorgramming competition held by TJ Bioinformatics Society that challenges students to solve biology-related problems efficiently using code." />
       <Hero image={heroImage} title={"TJHSST BioCode"} subtitle={"A bioinformatics competition for high school and middle school students we host where students must solve biology-related problems efficiently using code."} centered={true} />
-      <div className='bg-gray-100'>
+      {/* <div className='bg-gray-100'>
         <div className='max-w-screen-lg mx-auto py-10 px-4 sm:px-6'>
           <div className='grid grid-cols-1 sm:grid-cols-2 gap-5'>
             <div className='text-center sm:text-left'>
@@ -38,11 +38,11 @@ const BiocodePage = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className='mx-auto max-w-screen-lg py-20 pt-16 px-4 sm:px-8 md:px-12'>
-        <div className="mb-12 text-center">
+        {/* <div className="mb-12 text-center">
           <a href="https://drive.google.com/file/d/18b4crGDsIi5bvROAng0OeOdlpsUOIBq-/view?usp=sharing" target="_blank" className="bg-green-500 hover:bg-green-400 focus:outline-none focus:bg-green-400 px-6 py-4 border border-transparent text-lg font-medium rounded-md text-white transition duration-150 ease-in-out">Participant Guide</a>
-        </div>
+        </div> */}
         <div className='mb-8'>
           <p className="text-gray-500 text-lg mb-3">
           TJHSST BioCode is an annual coding competition hosted by the Thomas Jefferson High School 
@@ -55,12 +55,13 @@ const BiocodePage = () => {
           The competition will consist of an opening ceremony, programming time, workshops from 
           knowledgeable TJ students, guest lectures from professors in the field, and an awards ceremony.
           </p>
-          <p className="text-gray-500 text-lg mb-1 font-bold">
+          <p className="text-green-800 text-3xl py-8 mb-1 font-bold"> More Information about BioCode 2024 coming soon! </p>
+          {/* <p className="text-gray-500 text-lg mb-1 font-bold">
           Where: TJHSST, 6560 Braddock Road, Alexandria, VA 22312  
           </p>
           <p className="text-gray-500 text-lg font-bold">
           When: March 11, 10 AM - 7 PM EST
-          </p>
+          </p> */}
         </div>
         <div className='mb-8'>
           <h1 className='font-extrabold text-4xl mb-4'>Structure</h1>
@@ -86,7 +87,7 @@ const BiocodePage = () => {
           Each division will have individual prizes for the winners of their respective divisions. These prizes will include a cash prize and possible sponsored prizes (to be announced later).
           </p>
         </div>
-        <div>
+        {/* <div>
           <h1 className='font-extrabold text-4xl mb-4'>Sponsors</h1>
           <p className="text-gray-500 text-lg mb-8">
             Our platinum sponsor is <a class="underline text-green-600" href='https://www.redteamcollegeplanning.com' target="_blank">Red Team College Planning</a>.
@@ -94,7 +95,7 @@ const BiocodePage = () => {
             Our bronze sponsor is <a class="underline text-green-600" href='https://aopsacademy.org/' target="_blank">Art of Problem Solving (AoPS)</a>.
           </p>
           <StaticImage className="md:my-auto h-full mx-auto" src="../images/rtcp.png" alt="Red Team College Planning" placeholder="blurred" />
-        </div>
+        </div> */}
       </div>
       <Team biocode={true} />
     </Layout>
