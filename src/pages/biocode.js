@@ -60,7 +60,7 @@ const BiocodePage = () => {
           Where: TJHSST, 6560 Braddock Road, Alexandria, VA 22312  
           </p>
           <p className="text-gray-500 text-lg font-bold">
-          When: March 11, 10 AM - 7 PM EST
+          When: April 20, 10 AM - 7 PM EST
           </p>
         </div>
         <div className='mb-8'>
