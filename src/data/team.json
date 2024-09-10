@@ -1,37 +1,37 @@
 [
   {
-    "name": "Zarif Azher",
-    "position": "Captain",
-    "img": "zarif"
-  },
-  {
-    "name": "Sritan Motati",
-    "position": "Captain",
-    "img": "sritan"
-  },
-  {
     "name": "Sanchali Banerjee",
-    "position": "Teaching Coordinator",
-    "img": "sanchali"
+    "position": "President",
+    "img": "Sanchali"
   },
   {
     "name": "Jasmine Ma",
-    "position": "Treasurer",
-    "img": "jasmine"
-  },
-  {
-    "name": "Medha Pappula",
-    "position": "Director  of Biocode",
-    "img": "medha"
-  },
-  {
-    "name": "Akash Wudali",
-    "position": "Director of Biocode",
-    "img": "akash"
+    "position": "President",
+    "img": "Jasmine"
   },
   {
     "name": "Avnith Vijayram",
+    "position": "Teaching Coordinator",
+    "img": "Avnith"
+  },
+  {
+    "name": "Chetan Maviti",
+    "position": "Treasurer",
+    "img": "Chetan"
+  },
+  {
+    "name": "Fiona Devaraj",
+    "position": "Director of Biocode",
+    "img": "Fiona"
+  },
+  {
+    "name": "Rachel Du",
+    "position": "Director of Biocode",
+    "img": "Rachel"
+  },
+  {
+    "name": "Aryan Gadre",
     "position": "Webmaster",
-    "img": "avnith"
+    "img": "Aryan"
   }
 ]
