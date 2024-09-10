@@ -2,36 +2,36 @@
   {
     "name": "Sanchali Banerjee",
     "position": "President",
-    "img": "Sanchali"
+    "img": "sanchali"
   },
   {
     "name": "Jasmine Ma",
     "position": "President",
-    "img": "Jasmine"
+    "img": "jasmine"
   },
   {
     "name": "Avnith Vijayram",
     "position": "Teaching Coordinator",
-    "img": "Avnith"
+    "img": "avnith"
   },
   {
     "name": "Chetan Maviti",
     "position": "Treasurer",
-    "img": "Chetan"
+    "img": "chetan"
   },
   {
     "name": "Fiona Devaraj",
-    "position": "Director of Biocode",
-    "img": "Fiona"
+    "position": "Director  of Biocode",
+    "img": "fiona"
   },
   {
     "name": "Rachel Du",
     "position": "Director of Biocode",
-    "img": "Rachel"
+    "img": "rachel"
   },
   {
     "name": "Aryan Gadre",
     "position": "Webmaster",
-    "img": "Aryan"
+    "img": "aryan"
   }
 ]
