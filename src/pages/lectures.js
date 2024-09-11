@@ -18,7 +18,7 @@ const LecturesPage = () => {
 			}
     }
   `)
-  const years = ['2021-22', '2022-23', '2023-24'].reverse()
+  const years = ['2021-22', '2022-23', '2023-24', '2024-25'].reverse()
   const [curYear,setCurYear] = useState(years[0])
 
   return (
