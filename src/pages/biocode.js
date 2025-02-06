@@ -34,7 +34,7 @@ const BiocodePage = () => {
               </p>
             </div>
             <div className='flex justify-center sm:justify-end items-center sm:text-right'>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6EQ7gTSJScIHGQL76p49kSHahlUhnZfQqK2Pgx_dbRYfuVA/viewform" target="_blank" className="bg-green-500 hover:bg-green-400 focus:outline-none focus:bg-green-400 px-5 py-3 border border-transparent text-base font-medium rounded-md text-white transition duration-150 ease-in-out">Register</a>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvXO6EP4E-bSDmxi8SJUQSGgPPtkdp_rvQmwYXJfCUh4rX-A/viewform?usp=dialog" target="_blank" className="bg-green-500 hover:bg-green-400 focus:outline-none focus:bg-green-400 px-5 py-3 border border-transparent text-base font-medium rounded-md text-white transition duration-150 ease-in-out">Register</a>
             </div>
           </div>
         </div>
