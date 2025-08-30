@@ -1,36 +1,31 @@
 [
   {
-    "name": "Sanchali Banerjee",
+    "name": "Rachel Du",
     "position": "President",
     "img": "sanchali"
   },
   {
-    "name": "Jasmine Ma",
+    "name": "Isabella Pikner",
     "position": "President",
     "img": "jasmine"
   },
   {
-    "name": "Avnith Vijayram",
+    "name": "Rishitha Mantri",
     "position": "Teaching Coordinator",
     "img": "avnith"
   },
   {
-    "name": "Chetan Maviti",
+    "name": "Kameron Lee",
     "position": "Treasurer",
     "img": "chetan"
   },
   {
-    "name": "Fiona Devaraj",
+    "name": "Isha Joshi",
     "position": "Director  of Biocode",
     "img": "fiona"
   },
   {
-    "name": "Rachel Du",
-    "position": "Director of Biocode",
-    "img": "rachel"
-  },
-  {
-    "name": "Aryan Gadre",
+    "name": "Sravya Gogineni",
     "position": "Webmaster",
     "img": "aryan"
   }
