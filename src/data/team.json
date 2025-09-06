@@ -12,7 +12,12 @@
   {
     "name": "Rishi Mantri",
     "position": "Teaching Coordinator",
-    "img": "rishitha"
+    "img": "rishi"
+  },
+  {
+    "name": "Sravya Gogineni",
+    "position": "Webmaster",
+    "img": "sravya"
   },
   {
     "name": "Kameron Lee",
@@ -23,10 +28,5 @@
     "name": "Isha Joshi",
     "position": "Director  of Biocode",
     "img": "isha"
-  },
-  {
-    "name": "Sravya Gogineni",
-    "position": "Webmaster",
-    "img": "sravyag"
   }
 ]
