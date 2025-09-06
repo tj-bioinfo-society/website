@@ -1,37 +1,32 @@
 [
   {
-    "name": "Sanchali Banerjee",
-    "position": "Lead Chair",
-    "img": "sanchali"
-  },
-  {
-    "name": "Jasmine Ma",
-    "position": "Lead Chair",
-    "img": "jasmine"
-  },
-  {
-    "name": "Avnith Vijayram",
-    "position": "Chair",
-    "img": "avnith"
-  },
-  {
-    "name": "Chetan Maviti",
-    "position": "Chair",
-    "img": "chetan"
-  },
-  {
-    "name": "Fiona Devaraj",
-    "position": "Director  of Biocode",
-    "img": "fiona"
-  },
-  {
     "name": "Rachel Du",
-    "position": "Director of Biocode",
+    "position": "Lead Chair",
     "img": "rachel"
   },
   {
-    "name": "Aryan Gadre",
+    "name": "Isabella Pikner",
+    "position": "Lead Chair",
+    "img": "isabella"
+  },
+  {
+    "name": "Rishi Mantri",
     "position": "Chair",
-    "img": "aryan"
+    "img": "rishi"
+  },
+  {
+    "name": "Sravya Gogineni",
+    "position": "Chair",
+    "img": "sravya"
+  },
+  {
+    "name": "Kameron Lee",
+    "position": "Chair",
+    "img": "kameron"
+  },
+  {
+    "name": "Isha Joshi",
+    "position": "Director of Biocode",
+    "img": "isha"
   }
 ]
