@@ -10,6 +10,11 @@
     "img": "isabella"
   },
   {
+    "name": "Isha Joshi",
+    "position": "Director of Biocode",
+    "img": "isha"
+  },
+  {
     "name": "Rishi Mantri",
     "position": "Chair",
     "img": "rishi"
@@ -23,10 +28,5 @@
     "name": "Kameron Lee",
     "position": "Chair",
     "img": "kameron"
-  },
-  {
-    "name": "Isha Joshi",
-    "position": "Director of Biocode",
-    "img": "isha"
   }
 ]
