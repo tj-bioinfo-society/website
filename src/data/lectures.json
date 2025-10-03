@@ -335,8 +335,26 @@
     {
       "title": "Club Introduction",
       "author": "TJ Bioinformatics Society",
+      "date": "September 10, 2025",
+      "url": "https://docs.google.com/presentation/d/1BbNkXdKfakQhaeP_PwHqYYrqLaSac6IiZBUd4EepmUs/edit?usp=sharing"
+    },
+    {
+      "title": "Intro to Python",
+      "author": "TJ Bioinformatics Society",
       "date": "September 17, 2025",
       "url": "https://docs.google.com/presentation/d/1dO5kwVRh3dHs6p0_E5ljWzfPmDclI6P2/edit?usp=sharing&ouid=100750226830985386325&rtpof=true&sd=true"
+    },
+    {
+      "title": "Python Review",
+      "author": "TJ Bioinformatics Society",
+      "date": "September 24, 2025",
+      "url": "https://docs.google.com/presentation/d/1eN5h_9CLeD5AcOCQ-QFsXMCBa_iXoaCa/edit?usp=sharing&ouid=100750226830985386325&rtpof=true&sd=true"
+    },
+    {
+      "title": "R Coding Overview",
+      "author": "TJ Bioinformatics Society",
+      "date": "October 1, 2025",
+      "url": "https://docs.google.com/presentation/d/1ylkY462FUzFYOrSo9TZNyybz3Ww-2F_rr040k6DVc2A/edit?usp=sharing"
     }
   ]
 }
