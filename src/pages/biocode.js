@@ -97,7 +97,7 @@ const BiocodePage = () => {
           <StaticImage className="md:my-auto h-full mx-auto" src="../images/rtcp.png" alt="Red Team College Planning" placeholder="blurred" />
         </div> */}
       </div>
-      <Team biocode={true} />
+      <Team biocode={false} />
     </Layout>
   )
 }
