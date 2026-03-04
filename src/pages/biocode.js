@@ -27,14 +27,14 @@ const BiocodePage = () => {
           <div className='grid grid-cols-1 sm:grid-cols-2 gap-5'>
             <div className='text-center sm:text-left'>
               <h1 className="text-2xl tracking-tight leading-8 sm:leading-none font-extrabold sm:text-3xl lg:text-4xl xl:text-5xl mb-4">
-                Sign up now!
+                Sign up now for BioCode 2026!
               </h1>
               <p className='text-md text-gray-500'>
                 Fill out the registration form to register for TJ BioCode, where you can learn new skills and potentially win hundreds of dollars in prizes!
               </p>
             </div>
             <div className='flex justify-center sm:justify-end items-center sm:text-right'>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvXO6EP4E-bSDmxi8SJUQSGgPPtkdp_rvQmwYXJfCUh4rX-A/viewform?usp=dialog" target="_blank" className="bg-green-500 hover:bg-green-400 focus:outline-none focus:bg-green-400 px-5 py-3 border border-transparent text-base font-medium rounded-md text-white transition duration-150 ease-in-out">Register</a>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvXO6EP4E-bSDmxi8SJUQSGgPPtkdp_rvQmwYXJfCUh4rX-A/viewform" target="_blank" className="bg-green-500 hover:bg-green-400 focus:outline-none focus:bg-green-400 px-5 py-3 border border-transparent text-base font-medium rounded-md text-white transition duration-150 ease-in-out">Register</a>
             </div>
           </div>
         </div>
@@ -60,7 +60,7 @@ const BiocodePage = () => {
           Where: TJHSST, 6560 Braddock Road, Alexandria, VA 22312  
           </p>
           <p className="text-gray-500 text-lg font-bold">
-          When: March 1, 10 AM - 5 PM EST
+          When: April 11, 10 AM - 5 PM EST
           </p>
         </div>
         <div className='mb-8'>
