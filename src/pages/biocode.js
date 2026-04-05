@@ -87,17 +87,40 @@ const BiocodePage = () => {
           Each division will have individual prizes for the winners of their respective divisions. These prizes will include a cash prize and possible sponsored prizes (to be announced later).
           </p>
 		</div>
-        <div>
-		  <h1 className='font-extrabold text-4xl mb-4'>Sponsors</h1>
-		  <p className="text-gray-500 text-lg mb-8">
-		    <a className="underline text-green-600" href='https://www.vishnumurthyfoundation.org' target="_blank" rel="noopener noreferrer">
-		      Vishnu Murthy Foundation
-		    </a>{" "}
-		    <a className="underline text-green-600" href='https://www.wolfram.com' target="_blank" rel="noopener noreferrer">
-		      Wolfram
-		    </a>
-		  </p>
-		</div>
+        
+	<div>
+	  <h1 className='font-extrabold text-4xl mb-4'>Sponsors</h1>
+	
+	  <div className="space-y-8">
+	
+	    <div className="text-gray-500 text-lg">
+	      <a className="underline text-green-600" href="https://www.vishnumurthyfoundation.org" target="_blank" rel="noopener noreferrer">Vishnu Murthy Foundation</a>
+	
+	      <div className="mt-2">
+	        <StaticImage
+	          src="../images/vmf.png"
+	          alt="Vishnu Murthy Foundation logo"
+	          className="h-24 object-contain"
+	          placeholder="blurred"
+	        />
+	      </div>
+	    </div>
+	
+	    <div className="text-gray-500 text-lg">
+	      <a className="underline text-green-600" href="https://www.wolfram.com" target="_blank" rel="noopener noreferrer">Wolfram</a>
+	
+	      <div className="mt-2">
+	        <StaticImage
+	          src="../images/wolfram.png"
+	          alt="Wolfram logo"
+	          className="h-24 object-contain"
+	          placeholder="blurred"
+	        />
+	      </div>
+	    </div>
+	
+	  </div>
+	</div>
 	</div>
       <Team biocode={false} />
     </Layout>
