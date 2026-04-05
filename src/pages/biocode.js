@@ -86,17 +86,19 @@ const BiocodePage = () => {
           <p className="text-gray-500 text-lg">
           Each division will have individual prizes for the winners of their respective divisions. These prizes will include a cash prize and possible sponsored prizes (to be announced later).
           </p>
-        </div>
-        {/* <div>
-          <h1 className='font-extrabold text-4xl mb-4'>Sponsors</h1>
-          <p className="text-gray-500 text-lg mb-8">
-            Our platinum sponsor is <a class="underline text-green-600" href='https://www.redteamcollegeplanning.com' target="_blank">Red Team College Planning</a>.
-            Our gold sponsor is the <a class="underline text-green-600" href='https://www.vishnumurthyfoundation.org' target="_blank">Vishnu Murthy Foundation</a>.
-            Our bronze sponsor is <a class="underline text-green-600" href='https://aopsacademy.org/' target="_blank">Art of Problem Solving (AoPS)</a>.
-          </p>
-          <StaticImage className="md:my-auto h-full mx-auto" src="../images/rtcp.png" alt="Red Team College Planning" placeholder="blurred" />
-        </div> */}
-      </div>
+		</div>
+        <div>
+		  <h1 className='font-extrabold text-4xl mb-4'>Sponsors</h1>
+		  <p className="text-gray-500 text-lg mb-8">
+		    <a className="underline text-green-600" href='https://www.vishnumurthyfoundation.org' target="_blank" rel="noopener noreferrer">
+		      Vishnu Murthy Foundation
+		    </a>{" "}
+		    <a className="underline text-green-600" href='https://www.wolfram.com' target="_blank" rel="noopener noreferrer">
+		      Wolfram
+		    </a>
+		  </p>
+		</div>
+	</div>
       <Team biocode={false} />
     </Layout>
   )
