@@ -113,7 +113,7 @@ const BiocodePage = () => {
 	        <StaticImage
 	          src="../images/wolfram.png"
 	          alt="Wolfram logo"
-	          className="max-h-40 w-auto"
+	          className="max-h-65 w-auto"
 	          placeholder="blurred"
 	        />
 	      </div>
