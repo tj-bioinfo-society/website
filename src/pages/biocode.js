@@ -100,7 +100,7 @@ const BiocodePage = () => {
 	        <StaticImage
 	          src="../images/vmf.png"
 	          alt="Vishnu Murthy Foundation logo"
-	          className="h-24 object-contain"
+	          className="max-h-40 w-auto"
 	          placeholder="blurred"
 	        />
 	      </div>
@@ -113,7 +113,7 @@ const BiocodePage = () => {
 	        <StaticImage
 	          src="../images/wolfram.png"
 	          alt="Wolfram logo"
-	          className="h-24 object-contain"
+	          className="max-h-40 w-auto"
 	          placeholder="blurred"
 	        />
 	      </div>
