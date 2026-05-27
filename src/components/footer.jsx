@@ -29,7 +29,7 @@ const Footer = () => {
             )
           })}
         </div>
-        <p>&copy; TJ Bioinformatics Society | Developed and maintained by Sritan Motati</p>
+        <p>&copy; TJ Bioinformatics Society | Developed by Sritan Motati | Maintained by Sravya Gogineni</p>
       </div>
     </div>
   )
